@@ -7,7 +7,7 @@ import Footer from '../Footer'
 
 import './App.css'
 
-export default function App(props) {
+export default function App() {
   return (
     <div className="App">
       <Header />
