@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+# To start the project
+
+ 1. Install the dependencies with npm i
+ 2. Start the project with npm start
+ 
 # Music Project
 For this project, you will be using React to show the albums of your favorite artist.
 
