@@ -1,0 +1,30 @@
+.Carousel{
+    display: flex;
+    margin: 0 auto;
+    max-width: 824px;
+    align-items: center;
+}
+
+
+.Carousel-cards{
+    display: flex;
+    width: calc(100% - 58px);
+    overflow: hidden;
+    margin: 0 8px;
+    
+}
+
+.padding-div{
+height: 1px;
+width: 248px
+}
+
+button{
+    cursor: pointer;
+    background-color: rgba(39, 220, 186, 0.501);
+    border-color: transparent;
+    border-radius: 8px;
+    width: 24px;
+    height:100px;
+    padding: 0;
+}

@@ -1,0 +1,8 @@
+section{
+    width: calc(100% -  16px);
+    margin: 0 8px;
+}
+
+section h2{
+    margin-top: 0px;
+}
