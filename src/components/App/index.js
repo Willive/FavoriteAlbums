@@ -8,7 +8,6 @@ import Footer from '../Footer'
 import './App.css'
 
 export default function App(props) {
-  console.log(props)
   return (
     <div className="App">
       <Header />
