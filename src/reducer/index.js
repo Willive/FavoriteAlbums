@@ -1,7 +1,7 @@
 import { createAction, handleActions } from 'redux-actions'
 import axios from 'axios'
 
-const nullAlbum = { artistName: "", collectionName: "", releaseDate: "----", artworkUrl100: "", collectionViewUrl:"", collectionPrice:"" }
+const nullAlbum = { artistName: "", collectionName: "", releaseDate: "????", artworkUrl100: "", collectionViewUrl:"", collectionPrice:"" }
 const initialState = { albumData: [] }
 
 export const albumInfoRequested = createAction('ALBUM_INFO_REQUESTED')
